@@ -1,6 +1,6 @@
 ### Hi, I'm Rayssa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Your short description
+## My short description
 - 🔭 I’m currently working on - ItSolved
 - 🌱 I’m currently learning - Flutter
 - 👯 I’m looking to collaborate with - Other developers in community
