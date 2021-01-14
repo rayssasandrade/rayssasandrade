@@ -12,7 +12,7 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 ⚡ &nbsp;Fun fact, I like nutrition.  <br />
 </h4>
 
-<img alt="Coding" src="https://instagram.faju6-1.fna.fbcdn.net/v/t51.2885-15/e35/39946411_482036772279116_5725456873201598464_n.jpg?_nc_ht=instagram.faju6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=TJjf5gO3LuwAX8XcFgm&tp=1&oh=d82f9290b025d9f4902d224a317b1859&oe=6028EC92 =100x20" align="right"/>
+<img alt="Coding" src="https://instagram.faju6-1.fna.fbcdn.net/v/t51.2885-15/e35/39946411_482036772279116_5725456873201598464_n.jpg?_nc_ht=instagram.faju6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=TJjf5gO3LuwAX8XcFgm&tp=1&oh=d82f9290b025d9f4902d224a317b1859&oe=6028EC92" align="right" width="200"/>
 
 ### 🛠 &nbsp;Tech Stack
 
