@@ -39,7 +39,17 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 ![AdobeLightroom](https://img.shields.io/badge/-AdobeLightroom-05122A?style=flat&logo=adobe-lightroom&logoColor=31A8FF)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=LATEX&logoColor=008080)&nbsp;
 
-## Connect with me:
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayssasandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayssasandrade&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/185/185985.svg?token=exp=1610644110~hmac=1ab50540b6a9c34b2d4be84a6dc16a76" />](https://www.instagram.com/rayssa_s.andrade)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/185/185964.svg?token=exp=1610644184~hmac=6da299f52afe619307a41a3a286d2e7b" />](https://www.linkedin.com/in/rayssa-andrade-7785041a3/)
 <br />
