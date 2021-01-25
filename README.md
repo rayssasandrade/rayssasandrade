@@ -49,11 +49,6 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/185/185985.svg?token=exp=1610644110~hmac=1ab50540b6a9c34b2d4be84a6dc16a76" />](https://www.instagram.com/rayssa_s.andrade)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/185/185964.svg?token=exp=1610644184~hmac=6da299f52afe619307a41a3a286d2e7b" />](https://www.linkedin.com/in/rayssa-andrade-7785041a3/)
-<br />
-
 [![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/rayssa-andrade-7785041a3/)
 [![Instagram Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/rayssa_s.andrade/)
 [![Email Badge](https://icon-icons.com/icon/mail-envelope/83619#48)](mailto:rayssa.andrade071@outlook.com)
