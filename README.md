@@ -51,4 +51,4 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 ### 🤝🏻 &nbsp;Connect with Me
 [![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/rayssa-andrade-7785041a3/)
 [![Instagram Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/rayssa_s.andrade/)
-[![Email Badge](https://icon-icons.com/icon/mail-envelope/83619#48)](mailto:rayssa.andrade071@outlook.com)
+[![Email Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718759-mail_83619.png)](mailto:rayssa.andrade071@outlook.com)
