@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋</h3>
 
-<img alt="Coding" src="https://i.postimg.cc/x8b3FcxD/Whats-App-Image-2021-04-22-at-10-34-23.jpg" align="right" width="150"/>
+<img alt="Coding" src="https://assets.materialup.com/uploads/cd3b3294-1c8b-462a-9229-4e905e4c6fe8/preview.gif" align="right" width="500"/>
 
 <p align="center">
 I'm Rayssa, a self-motivated tech and full stack web developer.
@@ -51,6 +51,6 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/rayssa-andrade-7785041a3/)
-[![Instagram Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/rayssa_s.andrade/)
+[![Linkedin Badge](https://cdn.icon-icons.com/icons2/856/PNG/512/social_media_corporate_logo_linkedin_icon-icons.com_67726.png)
+[![Instagram Badge](https://cdn.icon-icons.com/icons2/856/PNG/512/instagram_social_media_corporate_logo_icon-icons.com_67734.png)
 [![Email Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718759-mail_83619.png)](mailto:rayssa.andrade071@outlook.com)
