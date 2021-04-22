@@ -1,10 +1,12 @@
 <h3 align="center"> Hi there 👋</h3>
 
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://assets.materialup.com/uploads/cd3b3294-1c8b-462a-9229-4e905e4c6fe8/preview.gif" width="400" height="300">
-
 <p align="center">
 I'm Rayssa, a self-motivated tech and full stack web developer.
 </p>
+
+![Alt Text](https://assets.materialup.com/uploads/cd3b3294-1c8b-462a-9229-4e905e4c6fe8/preview.gif)
+
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://assets.materialup.com/uploads/cd3b3294-1c8b-462a-9229-4e905e4c6fe8/preview.gif" width="400" height="300">
 
 <h4 align="center">
 💡 &nbsp;I like to explore new technologies and develop software solutions.  <br />
