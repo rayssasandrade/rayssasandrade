@@ -4,6 +4,8 @@
 I'm Rayssa, a self-motivated tech and full stack web developer.
 </p>
 
+<img alt="Coding" src="https://image.freepik.com/vetores-gratis/site-de-programacao-de-minusculos-desenvolvedores-para-ilustracao-vetorial-plana-de-plataforma-de-internet-programadores-de-desenho-animado-perto-da-tela-com-codigo-aberto-ou-script-desenvolvimento-de-software-e-conceito-de-tecnologia-digital_74855-10168.jpg" align="right" width="300"/>
+
 <h4 align="center">
 💡 &nbsp;I like to explore new technologies and develop software solutions.  <br />
 🎓 &nbsp;I'm currently studying Information Systems at the Federal Institute of Science and Technology of Seripe.  <br />
@@ -11,8 +13,6 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 ✍️ &nbsp;In my free time, I pursue Web Design, Photography and Editing as hobbies.  <br />
 ⚡ &nbsp;Fun fact, I like nutrition.  <br />
 </h4>
-
-<img alt="Coding" src="https://image.freepik.com/vetores-gratis/site-de-programacao-de-minusculos-desenvolvedores-para-ilustracao-vetorial-plana-de-plataforma-de-internet-programadores-de-desenho-animado-perto-da-tela-com-codigo-aberto-ou-script-desenvolvimento-de-software-e-conceito-de-tecnologia-digital_74855-10168.jpg" align="right" width="300"/>
 
 ### 🛠 &nbsp;Tech Stack
 
