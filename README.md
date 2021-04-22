@@ -12,7 +12,7 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 ⚡ &nbsp;Fun fact, I like nutrition.  <br />
 </h4>
 
-<img alt="Coding" src="https://image.freepik.com/vetores-gratis/site-de-programacao-de-minusculos-desenvolvedores-para-ilustracao-vetorial-plana-de-plataforma-de-internet-programadores-de-desenho-animado-perto-da-tela-com-codigo-aberto-ou-script-desenvolvimento-de-software-e-conceito-de-tecnologia-digital_74855-10168.jpg" align="right" width="150"/>
+<img alt="Coding" src="https://image.freepik.com/vetores-gratis/site-de-programacao-de-minusculos-desenvolvedores-para-ilustracao-vetorial-plana-de-plataforma-de-internet-programadores-de-desenho-animado-perto-da-tela-com-codigo-aberto-ou-script-desenvolvimento-de-software-e-conceito-de-tecnologia-digital_74855-10168.jpg" align="right" width="300"/>
 
 ### 🛠 &nbsp;Tech Stack
 
