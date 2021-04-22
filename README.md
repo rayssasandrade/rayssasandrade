@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋</h3>
 
-<img alt="Coding" src="https://i.postimg.cc/x8b3FcxD/Whats-App-Image-2021-04-22-at-10-34-23.jpg" align="right" width="300"/>
+<img alt="Coding" src="https://i.postimg.cc/x8b3FcxD/Whats-App-Image-2021-04-22-at-10-34-23.jpg" align="right" width="200"/>
 
 <p align="center">
 I'm Rayssa, a self-motivated tech and full stack web developer.
