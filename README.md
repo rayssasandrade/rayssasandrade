@@ -9,7 +9,7 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 <h4 align="center">
 💡 &nbsp;I like to explore new technologies and develop software solutions.  <br />
 🎓 &nbsp;I'm currently studying Information Systems at the Federal Institute of Science and Technology of Seripe.  <br />
-🌱 &nbsp;I'm on track for learning more about Flutter, UX/UI, and Fluig.  <br />
+🌱 &nbsp;I'm on track for learning more about Flutter, UX/UI and Fluig.  <br />
 ✍️ &nbsp;In my free time, I pursue Web Design, Photography and Editing as hobbies.  <br />
 ⚡ &nbsp;Fun fact, I like nutrition.  <br />
 </h4>
