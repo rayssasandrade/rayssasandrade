@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋</h3>
 
-<img alt="Coding" src="https://static.vecteezy.com/ti/vetor-gratis/p1/227854-vector-desenvolvedor-feminino-grátis-vetor.jpg" align="right" width="300"/>
+<img alt="Coding" src="https://i.postimg.cc/x8b3FcxD/Whats-App-Image-2021-04-22-at-10-34-23.jpg" align="right" width="300"/>
 
 <p align="center">
 I'm Rayssa, a self-motivated tech and full stack web developer.
@@ -17,12 +17,13 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=2CB7F6)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007396)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=2CB7F6)&nbsp;
 ![Fluig](https://img.shields.io/badge/-Fluig-05122A?style=flat&logo=fluig)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server&logoColor=CC2927)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=4CA84A)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=5849BE)&nbsp;
