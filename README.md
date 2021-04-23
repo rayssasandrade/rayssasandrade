@@ -2,8 +2,6 @@
 
 <p align="center">
 I'm Rayssa, a self-motivated tech and full stack web developer.
-  
-<img src="https://i.postimg.cc/dtrwkYxs/preview.gif" alt="web-development" width="50%"/>
 </p>
 
 <h4 align="center">
@@ -12,6 +10,7 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 🌱 &nbsp;I'm on track for learning more about Flutter, UX/UI and Fluig.  <br />
 ✍️ &nbsp;In my free time, I pursue Web Design, Photography and Editing as hobbies.  <br />
 ⚡ &nbsp;Fun fact, I like nutrition.  <br />
+<img src="https://i.postimg.cc/dtrwkYxs/preview.gif" alt="web-development" width="30%"/>
 </h4>
 
 ### 🛠 &nbsp;Tech Stack
