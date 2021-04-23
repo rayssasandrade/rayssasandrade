@@ -4,7 +4,7 @@
 I'm Rayssa, a self-motivated tech and full stack web developer.
 </p>
 
-![web-development](https://assets.materialup.com/uploads/cd3b3294-1c8b-462a-9229-4e905e4c6fe8/preview.gif)&nbsp;
+![web-development](https://i.postimg.cc/dtrwkYxs/preview.gif)&nbsp;
 
 <h4 align="center">
 💡 &nbsp;I like to explore new technologies and develop software solutions.  <br />
