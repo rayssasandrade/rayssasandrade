@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Rayssa, a self-motivated tech and full stack web developer.
+I'm Rayssa, a self-motivated tech and full stack web developer.<br />
   
 <img src="https://i.postimg.cc/dtrwkYxs/preview.gif" alt="web-development" width="30%"/>
 </p>
