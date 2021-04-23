@@ -2,9 +2,8 @@
 
 <p align="center">
 I'm Rayssa, a self-motivated tech and full stack web developer.
+<img src="https://i.postimg.cc/dtrwkYxs/preview.gif" alt="web-development" width="60%"/>
 </p>
-
-![web-development](https://i.postimg.cc/dtrwkYxs/preview.gif)&nbsp;
 
 <h4 align="center">
 💡 &nbsp;I like to explore new technologies and develop software solutions.  <br />
