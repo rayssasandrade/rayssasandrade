@@ -20,7 +20,8 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007396)&nbsp;
-![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+![.NETCORE](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+![C#](https://camo.githubusercontent.com/d7cb89189697016a5eba48062c43d038ef584eddda4f7e75ce0a68d1dbcb3518/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323053686172702d3035313232413f7374796c653d666c6174266c6f676f3d637368617270266c6f676f436f6c6f723d303037333936)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=2CB7F6)&nbsp;
@@ -41,6 +42,7 @@ I'm Rayssa, a self-motivated tech and full stack web developer.
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=000000)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![AdobeLightroom](https://img.shields.io/badge/-AdobeLightroom-05122A?style=flat&logo=adobe-lightroom&logoColor=31A8FF)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva&logoColor=00C4CC)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=LATEX&logoColor=008080)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
